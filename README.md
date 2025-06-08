@@ -15,7 +15,7 @@ A curated list of **free, MacOS Silicon (ARM64)-compatible** apps and terminal t
   📐 Window positioning tool.  
 - **[Stats](https://github.com/exelban/stats)**   
   📊 System monitor (CPU, RAM, Disk).  
-- **[Pearcleaner](https://github.com/pear-app/pearcleaner-macos)**   
+- **[Pearcleaner](https://github.com/alienator88/Pearcleaner)**   
   🧹 Open-source Mac app cleaner.  
 - **[IINA](https://iina.io/)**   
   🎬 Modern media player for macOS.  
