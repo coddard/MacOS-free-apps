@@ -17,10 +17,6 @@ A curated list of **free, MacOS Silicon (ARM64)-compatible** apps and terminal t
   📊 System monitor (CPU, RAM, Disk).  
 - **[Pearcleaner](https://github.com/pear-app/pearcleaner-macos)**   
   🧹 Open-source Mac app cleaner.  
-- **[Tiles](https://github.com/ramiro/Tiles)**   
-  🧱 Drag-and-drop window manager.  
-- **[Silicon](https://github.com/leits/silicon)**   
-  💡 Detects Intel-only apps on Mac Silicon.  
 - **[IINA](https://iina.io/)**   
   🎬 Modern media player for macOS.  
 
@@ -51,7 +47,7 @@ A curated list of **free, MacOS Silicon (ARM64)-compatible** apps and terminal t
   📲 Menu bar mini-browser.  
 - **[Flow](https://flowdash.co/)**   
   🕒 Pomodoro focus timer.
-  - **[JazzUp](https://github.com/irzyxa/JazzUp)**   
+- **[JazzUp](https://github.com/irzyxa/JazzUp)**   
   🎹 Typing sound effects (typewriter, Cherry MX™ keys).  
 - **[Dropzone 4](https://apexify.com/dropzone/)**   
   📤 Fast file operations & sharing.  
