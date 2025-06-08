@@ -53,10 +53,6 @@ A curated list of **free, MacOS Silicon (ARM64)-compatible** apps and terminal t
   📤 Fast file operations & sharing.  
 - **[How Long Left](https://apps.apple.com/us/app/how-long-left/id1592019444)**   
   ⏳ Class timer in menu bar.  
-- **[MacGPT](https://github.com/macos-deep-learning/macgpt)**   
-  🧠 ChatGPT in menu bar.  
-- **[ChatGPT (Official App)](https://apps.apple.com/us/app/chatgpt/id1702455453)**   
-  💬 Official ChatGPT desktop app.  
 
 ---
 
