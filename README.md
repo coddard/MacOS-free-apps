@@ -211,20 +211,4 @@ brew install --cask rectangle stats aldente appcleaner monitorcontrol iterm2 obs
 
 ---
 
-## ✅ Verification Notes
-- **All links tested** on M2 MacBook Pro running macOS Sonoma 14.4
-- **Native Apple Silicon** confirmed via Activity Monitor or `file` command
-- **Last verification date**: June 15, 2025
-- **Report broken links**: [Open Issue](https://github.com/yourusername/repo-name/issues)
-
-```mermaid
-pie
-    title Download Sources
-    “GitHub Releases” : 65
-    “Official Sites” : 25
-    “Homebrew” : 10
-```
-
----
-
 
