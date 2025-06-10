@@ -2,6 +2,7 @@
 
 A curated list of **free, MacOS Silicon (ARM64)-compatible** apps and terminal tools for developers and Mac users.🚀  
 
+![0f20565e-a05e-4a2c-9444-5e6ad9a97c69](https://github.com/user-attachments/assets/3bbfa391-16c4-47e3-8e45-9fe9ef8b8907)
 
 
 ```mermaid
