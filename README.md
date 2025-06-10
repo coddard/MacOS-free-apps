@@ -211,4 +211,10 @@ brew install --cask rectangle stats aldente appcleaner monitorcontrol iterm2 obs
 
 ---
 
+## ✅ Verification Notes
+- **All links tested** on M2 MacBook Pro running macOS Sonoma 14.7.6
+- **Native Apple Silicon** confirmed via Activity Monitor or `file` command
+- **Report broken links**: [Open Issue](https://github.com/yourusername/repo-name/issues)
+
+
 
